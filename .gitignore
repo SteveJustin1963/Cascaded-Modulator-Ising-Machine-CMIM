@@ -1,0 +1,16 @@
+# Exclude PDF files
+*.pdf
+*.PDF
+
+# Common temporary/build files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Build outputs
+build/
+dist/
+__pycache__/
+*.pyc
